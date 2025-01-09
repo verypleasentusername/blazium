@@ -1,14 +1,15 @@
-# Blazium Engine
+# Blazium Engine(THE OLD LOGO FORK)
 
 <p align="center">
   <a href="https://blazium.app">
     <img src="logo_outlined.svg" width="400" alt="Godot Engine logo">
   </a>
 </p>
+HERE YOU CAN SEE ThE BEUTIFULL OLD LOGO
 
 ## 2D and 3D cross-platform game engine
 
-**[Blazium Engine](https://blazium.app) is a feature-packed, cross-platform
+**[Blazium Engine(LINK TO NON-OLD LOGO ORIGIN](https://blazium.app) is a feature-packed, cross-platform
 game engine to create 2D and 3D games from a unified interface.** It provides a
 comprehensive set of [common tools](), so that
 users can focus on making games without having to reinvent the wheel. Games can
@@ -18,7 +19,7 @@ Web-based platforms and [consoles](https://docs.blazium.app/tutorials/platform/c
 
 ## Free, open source and community-driven
 
-Blazium is completely free and open source under the very permissive [MIT license](https://mit-license.org).
+Blazium(WITH THE OLD LOGO) is completely free and open source under the very permissive [MIT license](https://mit-license.org).
 No strings attached, no royalties, nothing. The users' games are theirs, down
 to the last line of engine code. Blazium's development is fully independent and
 community-driven, empowering users to help shape their engine to match their
